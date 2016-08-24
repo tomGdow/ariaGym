@@ -1,11 +1,10 @@
-## AngularJS Single Page Application
+## ariaGym-Preliminary
 
 Preliminary single page application created with AngularJS and 
 [Angular seed](https://github.com/angular/angular-seed). 
 
 ### Depoyment 
-
-see here
+ http://tomgdow.github.io/ariaGym/
 
 ### Notes 
 
